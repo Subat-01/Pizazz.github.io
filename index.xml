@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jane - A super concise theme for Hugo</title>
-    <link>http://Subat-01.github.io/</link>
+    <link>http://Pizazz.github.io/</link>
     <description>Recent content on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Jul 2022 18:49:26 +0800</lastBuildDate>
     
-        <atom:link href="http://Subat-01.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://Pizazz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firstblog</title>
-      <link>http://Subat-01.github.io/post/firstblog/</link>
+      <link>http://Pizazz.github.io/post/firstblog/</link>
       <pubDate>Fri, 01 Jul 2022 18:49:26 +0800</pubDate>
       
-      <guid>http://Subat-01.github.io/post/firstblog/</guid>
+      <guid>http://Pizazz.github.io/post/firstblog/</guid>
       
         <description>&lt;p&gt;环境变量不会调&lt;/p&gt;
 </description>

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://Subat-01.github.io/sitemap.xml
+Sitemap: http://Pizazz.github.io/sitemap.xml
